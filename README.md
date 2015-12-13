@@ -10,3 +10,7 @@ Ainda tenho algumas ideias para ele.
 Em breve eu atualizo.
 
 O processo de instalação é todo guiado no 'install.pl'.
+
+--------------
+
+Funciona em: Ubuntu e distros baseadas no Debian.
